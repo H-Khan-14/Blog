@@ -1,3 +1,9 @@
+# Blog
+
+Blog is a React based web application that allows you to generate users and post on a blog. The technologies and practices used consist of: HTML5, JSX, CSS3, JavaScript, React/React.js, API's, Ajax Requests and ES6.
+
+[Live Demo](https://h-khan-14.github.io/Blog/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
